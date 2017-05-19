@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600");
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  color: #24bd39; }
+
+h1 {
+  font-size: 4em; }
+
+.pull-left {
+  float: left; }
+
+.pull-right {
+  float: right; }
+
+.clear-left {
+  clear: left; }
+
+.clear-right {
+  clear: right; }
+
+.btn {
+  border-radius: 50px;
+  border: none;
+  width: 200px;
+  height: 70px;
+  padding: 10px;
+  margin: auto;
+  display: block;
+  background-color: #cf202f;
+  color: #fff;
+  margin-left: 20px; }
+  .btn__price--big {
+    width: 400px;
+    height: 80px; }
+  .btn__price--blue {
+    background-color: #4F99D3; }
+  .btn__price--square {
+    border-radius: 0px; }
+
+table {
+  border: none;
+  width: 500px;
+  height: 500px; }
+
+th {
+  background-color: #4F99D3; }
+
+.temp-box {
+  width: 400px;
+  height: 200px;
+  padding: 15px;
+  background-color: #4F99D3; }
+
+.title {
+  font-weight: 700;
+  font-family: "Open Sans", sans-serif;
+  font-size: 32px; }
+
+/*# sourceMappingURL=app.css.map */

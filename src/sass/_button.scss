@@ -1,0 +1,39 @@
+
+.btn{
+	border-radius: 50px;
+	border: none;
+	width: 200px;
+	height: 70px;
+	padding: 10px;
+	margin: auto;
+	display: block;
+	background-color: $julio;
+	color: $white;
+	margin-left: 20px;
+
+	&__price--big{
+		width: 400px;
+		height: 80px;
+	}
+
+	&__price--blue{
+		background-color: $blue;
+	}
+
+	&__price--square{
+		border-radius: 0px;
+	}
+}
+
+// .btn__price--big{
+// 	width: 400px;
+// 	height: 80px;
+// }
+
+// .btn__price--blue{
+// 	background-color: $blue;
+// }
+
+// .btn__price--square{
+// 	border-radius: 0px;
+// }

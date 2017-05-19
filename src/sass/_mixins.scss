@@ -1,0 +1,13 @@
+
+@mixin box1{
+	width: 400px;
+	height: 200px;
+	padding: 15px;
+	background-color: $blue;
+}
+
+@mixin font{
+	font-weight: $weight;
+	font-family: $open;
+	font-size: 32px;
+}
