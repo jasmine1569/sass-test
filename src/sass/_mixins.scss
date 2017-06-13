@@ -6,8 +6,16 @@
 	background-color: $blue;
 }
 
+@mixin box2{
+	width: 50px;
+	height: 200px;
+	padding: 15px;
+	background-color: red;
+}
+
 @mixin font{
 	font-weight: $weight;
 	font-family: $open;
 	font-size: 32px;
 }
+

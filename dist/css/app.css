@@ -2,7 +2,7 @@
 h1, h2, h3, h4, h5, h6 {
   font-family: "Open Sans", sans-serif;
   font-weight: 400;
-  color: #24bd39; }
+  color: #7edf32; }
 
 h1 {
   font-size: 4em; }
@@ -27,14 +27,14 @@ h1 {
   padding: 10px;
   margin: auto;
   display: block;
-  background-color: #cf202f;
-  color: #fff;
+  background-color: #7edf32;
+  color: #7edf32;
   margin-left: 20px; }
   .btn__price--big {
     width: 400px;
     height: 80px; }
   .btn__price--blue {
-    background-color: #4F99D3; }
+    background-color: #7edf32; }
   .btn__price--square {
     border-radius: 0px; }
 
@@ -44,13 +44,16 @@ table {
   height: 500px; }
 
 th {
-  background-color: #4F99D3; }
+  background-color: #7edf32; }
 
 .temp-box {
   width: 400px;
   height: 200px;
   padding: 15px;
-  background-color: #4F99D3; }
+  background-color: #7edf32;
+  width: 400px; }
+  .temp-box--submit2 {
+    width: 200px; }
 
 .title {
   font-weight: 700;
