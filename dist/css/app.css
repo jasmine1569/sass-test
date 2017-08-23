@@ -2,22 +2,28 @@
 h1, h2, h3, h4, h5, h6 {
   font-family: "Open Sans", sans-serif;
   font-weight: 400;
-  color: #7edf32; }
+  color: #7edf32;
+}
 
 h1 {
-  font-size: 4em; }
+  font-size: 4em;
+}
 
 .pull-left {
-  float: left; }
+  float: left;
+}
 
 .pull-right {
-  float: right; }
+  float: right;
+}
 
 .clear-left {
-  clear: left; }
+  clear: left;
+}
 
 .clear-right {
-  clear: right; }
+  clear: right;
+}
 
 .btn {
   border-radius: 50px;
@@ -29,35 +35,50 @@ h1 {
   display: block;
   background-color: #7edf32;
   color: #7edf32;
-  margin-left: 20px; }
-  .btn__price--big {
-    width: 400px;
-    height: 80px; }
-  .btn__price--blue {
-    background-color: #7edf32; }
-  .btn__price--square {
-    border-radius: 0px; }
+  margin-left: 20px;
+}
+
+.btn__price--big {
+  width: 400px;
+  height: 80px;
+}
+
+.btn__price--blue {
+  background-color: #7edf32;
+}
+
+.btn__price--square {
+  border-radius: 0px;
+}
 
 table {
   border: none;
   width: 500px;
-  height: 500px; }
+  height: 500px;
+}
 
 th {
-  background-color: #7edf32; }
+  background-color: #7edf32;
+}
 
 .temp-box {
   width: 400px;
   height: 200px;
   padding: 15px;
-  background-color: #7edf32;
-  width: 400px; }
-  .temp-box--submit2 {
-    width: 200px; }
+  background-color: blue;
+}
 
 .title {
   font-weight: 700;
   font-family: "Open Sans", sans-serif;
-  font-size: 32px; }
+  font-size: 32px;
+}
+
+.temp__box--2 {
+  width: 50px;
+  height: 200px;
+  padding: 15px;
+  background-color: red;
+}
 
 /*# sourceMappingURL=app.css.map */

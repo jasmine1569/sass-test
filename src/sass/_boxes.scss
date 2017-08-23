@@ -1,13 +1,12 @@
 
 .temp-box{
 	@include box1 ;
-	width: $length - 1600px;
-
-	&.--submit2 {
-		width: $length / 10;
-	}
 }
 
 .title{
 	@include font ;
+}
+
+.temp__box--2{
+	@include box2 ;
 }
